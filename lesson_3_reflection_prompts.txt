@@ -2,3 +2,11 @@ When would you want to use a remote repository rather than keeping all your work
 
 	If you want to be able to access the contents remotely, e.g roadwarrior or share outside your immediate organisation.
 	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	clone makes a local copy of a repo
+	
+	fork is a verb provided by github.com. It copies a repo on github to a a new separate copy on github.com
+
+	a branch is adding a new node as a 'side branch' to an existing dependency tree hierarchy in a repo.
+	
