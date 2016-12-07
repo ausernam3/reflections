@@ -30,5 +30,9 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The 2 forked tree branches are rejoined - two branches reconnect at one node, forming a single new branch / line from the original 2
+
+	This fork / branch / merge model emphasises the tree structure - i.e. that every node has a parent.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
