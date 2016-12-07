@@ -24,6 +24,9 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	The diagrams explicitly describe a tree structure, in whech every node has a progenitor.
+	A 'branch' creates a bifurcation or 'fork' in the line of inheritance. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
