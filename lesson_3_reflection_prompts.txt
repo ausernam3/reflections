@@ -10,3 +10,10 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	a branch is adding a new node as a 'side branch' to an existing dependency tree hierarchy in a repo.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You can see the latest checked in additions without having a live internet connection e.g. on a plane
+
+	You can merge the recent remote updates into YOUR local master to update your local master to latest, without having to add your local experimental changes into the remote repo.
+
+
