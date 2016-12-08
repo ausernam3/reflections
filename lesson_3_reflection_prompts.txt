@@ -16,4 +16,18 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	You can merge the recent remote updates into YOUR local master to update your local master to latest, without having to add your local experimental changes into the remote repo.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+	Because collaboration can produce merge conflicts, orchestrating collaboration is difficult.
+
+	Avoiding merge conflicts often means using a conventional CVS allowing one user to 'checkout' that is temporarily take 'ownership' of individual files.
+
+	Any per-file conflicts must be manually resolved before a checkin is allowed.
+
+	This makes the process very 'one-way'. 
+	i.e. checkout is easy and checkin can also be easy, if the file level lock has 'prevented' a merge conflict.
+
+	This makes colaboration hard, because access to individual resources by multple users is restricted.
+
+	This pushes all 'manal merge' resolution effort onto users.
+	
