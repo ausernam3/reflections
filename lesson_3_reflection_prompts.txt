@@ -31,3 +31,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	This pushes all 'manal merge' resolution effort onto users.
 	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	If changes are experimental, or disruptive, or need peer review, or may not be 'final'.
+
+	It is somewhat simpler to make changes only locally, or only in maaster.
+
+	The benefit is to enable colaborative distributed contributions by multiple contributors to a shared code base.
+
